@@ -1,8 +1,6 @@
 ** Heart Prediction System **
 
-The image you've uploaded is a chest X-ray that appears to have characteristics consistent with a medical diagnosis related to lung or heart conditions. 
-
-However, without additional context or professional interpretation, it is challenging to provide a conclusive diagnosis based solely on this image.
+The image is a chest X-ray that appears to have characteristics consistent with a medical diagnosis related to lung or heart conditions. 
 
 To work with such an X-ray image using tools and libraries, here's an outline of tools commonly used in machine learning, computer vision, and medical imaging analysis.
 
